@@ -1,5 +1,6 @@
 Compilare:
 
+Folositi fisierul Makefile sau executati in teminal urmatoarele comenzi:
 g++ server.cpp -pthread -o TopMusicServer.bin
 g++ main.cpp -o TopMusicClient.bin
 
