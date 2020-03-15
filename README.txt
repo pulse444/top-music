@@ -1,7 +1,7 @@
 Compilare:
 
 g++ server.cpp -pthread -o TopMusicServer.bin
-g++ client.cpp -o TopMusicClient.bin
+g++ main.cpp -o TopMusicClient.bin
 
 Executare:
 
