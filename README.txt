@@ -8,11 +8,10 @@ Executare:
 ./TopMusicServer.bin
 ./TopMusicClient.bin 127.0.0.1 2908
 
-Continut arhiva:
+Continut:
 
 -fisiere sursa (.cpp sau .h)
 -fisiere text pentru stocarea datelor serverului (songs.txt, genres.txt, users.txt, comments.txt)
--documentatia
 
 Instructiuni:
 
